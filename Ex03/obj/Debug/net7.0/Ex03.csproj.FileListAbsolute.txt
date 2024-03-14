@@ -1,0 +1,15 @@
+D:\Devmaster.edu.vn\Homework.loop\Ex03\bin\Debug\net7.0\Ex03.exe
+D:\Devmaster.edu.vn\Homework.loop\Ex03\bin\Debug\net7.0\Ex03.deps.json
+D:\Devmaster.edu.vn\Homework.loop\Ex03\bin\Debug\net7.0\Ex03.runtimeconfig.json
+D:\Devmaster.edu.vn\Homework.loop\Ex03\bin\Debug\net7.0\Ex03.dll
+D:\Devmaster.edu.vn\Homework.loop\Ex03\bin\Debug\net7.0\Ex03.pdb
+D:\Devmaster.edu.vn\Homework.loop\Ex03\obj\Debug\net7.0\Ex03.csproj.AssemblyReference.cache
+D:\Devmaster.edu.vn\Homework.loop\Ex03\obj\Debug\net7.0\Ex03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devmaster.edu.vn\Homework.loop\Ex03\obj\Debug\net7.0\Ex03.AssemblyInfoInputs.cache
+D:\Devmaster.edu.vn\Homework.loop\Ex03\obj\Debug\net7.0\Ex03.AssemblyInfo.cs
+D:\Devmaster.edu.vn\Homework.loop\Ex03\obj\Debug\net7.0\Ex03.csproj.CoreCompileInputs.cache
+D:\Devmaster.edu.vn\Homework.loop\Ex03\obj\Debug\net7.0\Ex03.dll
+D:\Devmaster.edu.vn\Homework.loop\Ex03\obj\Debug\net7.0\refint\Ex03.dll
+D:\Devmaster.edu.vn\Homework.loop\Ex03\obj\Debug\net7.0\Ex03.pdb
+D:\Devmaster.edu.vn\Homework.loop\Ex03\obj\Debug\net7.0\Ex03.genruntimeconfig.cache
+D:\Devmaster.edu.vn\Homework.loop\Ex03\obj\Debug\net7.0\ref\Ex03.dll
